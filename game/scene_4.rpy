@@ -32,7 +32,7 @@ label scene_4:
        xalign 0.35 yalign 0.5
     minority_white_soldier_1 "首长，这么有一家客栈"   
     show minorityWhiteSoldierOne normal
-    daughterPretty "喂，那个少年，请问你家客栈的客人，还是店里的伙计？"
+    daughterPretty "喂，那个少年，请问你是客栈的客人，还是店里的伙计？"
     protagonist "这...你们不是本地人吧？"
     show minorityWhiteSoldierOne angry
     minority_white_soldier_1 "首长问你话呢，你怎么这么没礼貌！"
