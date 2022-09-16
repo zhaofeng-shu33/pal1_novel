@@ -47,7 +47,7 @@ label scene_4:
     daughterPretty "你嘴上虽硬，看来还是弱不经风的样子，我们一路上见到很多你这种书呆子，难怪你们大半个江山都让金人给掠去了。"
     show protagonist
     show minorityWhiteSoldierOne normal
-    protagonist "话不能这样说，故国虽落敌手，但故国的老百姓无心系王师北定中原之日。"
+    protagonist "话不能这样说，故国虽落敌手，但故国的老百姓无不心系王师北定中原之日。"
     daughterPretty "靠你这种人只怕你们故国的老百姓是看不到这一天了。"
     protagonist "遗民泪尽胡尘里，在下武艺不精，实在惭愧。"
     show daughterPretty battle:
