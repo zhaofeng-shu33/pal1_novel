@@ -53,7 +53,7 @@ label scene_7:
     $ girlAssistant.name="阿香"
     protagonist surprised "那我岂不是在海底？"
     girlAssistant "不是，这里是仙灵岛，一座逐海而漂的仙岛，平常人是不容易到这岛上来的。"
-    protagonist "仙岛？嗨，真有这回事，阿香，现在我可否去见一见你们的灵儿公主，只因村里的丁大伯染了重病，我是特定来仙岛求药的秀才李逍遥。"
+    protagonist "仙岛？嗨，真有这回事，阿香，现在我可否去见一见你们的灵儿公主，只因村里的丁大伯染了重病，我是特地来仙岛求药的秀才李逍遥。"
     girlAssistant "灵儿公主现在有事，请你在这里静候一会。"
     protagonist "丁大伯的病可等不了，公主在哪，我现在去见她。"
     show shadow:#transient ui disappears after a say statement
